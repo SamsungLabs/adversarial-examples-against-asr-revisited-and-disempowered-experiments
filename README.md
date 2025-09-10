@@ -1,5 +1,5 @@
 # adversarial-examples-against-asr-revisited-and-disempowered-experiments
-Repository representing experiments of "Did You Hear That? We Heard a Disturbing Noise! Adversarial Examples Against Automatic Speech Recognition: Revisited and Disempowered" paper.
+Repository representing the experiments of "Did You Hear That? We Heard a Disturbing Noise! Adversarial Examples Against Automatic Speech Recognition: Revisited and Disempowered" paper.
 
 ## Setup
 The code is adjusted for python3.7.
